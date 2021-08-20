@@ -4,7 +4,7 @@
 Here are some things about me:
 
 - 🔭 I’m currently working on a discord bot.
-- 🌱 I’m currently learning more Python, HTML and CSS, and Javascript.
+- 🌱 I’m currently learning Rust and polishing my Python skills!
 - 👯 I’m looking to collaborate on a few projects, open a pull request if you want to contribute.
 - 📫 How to reach me: discord, my username and discriminator is Chrovo#9488
 ---
